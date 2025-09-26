@@ -59,10 +59,5 @@ Step 3: Run the Project<br>
 <b>GitHub Repository</b><br>
 <a href="https://github.com/derravi/Student_Success_Prediction/tree/main">Student-Success-Prediction</a><br><br>
 
-<bDeveloped By :- Der Ravi</b><br>
-<b>Linkedin Profile</b>
-< a href="www.linkedin.com/in/ravi-der">Der Ravi</a><br><br>
-
-
 <b>Developed By :- Der Ravi</b><br>
 <a href="www.linkedin.com/in/ravi-der">Linkedin Profile Click Here.</a><br><br>
