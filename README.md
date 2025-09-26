@@ -37,7 +37,7 @@ Example plots are generated and saved automatically in the project directory.<br
 
 <b>How to Run</b><br>
 Step 1: Clone the Repository<br>
-<code>git clone https://github.com/YourUsername/Student-Success-Prediction.git</code><br>
+<code>git clone https://github.com/derravi/Student_Success_Prediction/tree/main</code><br>
 <code>cd Student-Success-Prediction</code><br><br>
 
 Step 2: Install Dependencies<br>
@@ -57,8 +57,12 @@ Step 3: Run the Project<br>
 - Enhance dataset with more features (parental education, socio-economic background, etc.)<br><br>
 
 <b>GitHub Repository</b><br>
-<a href="https://github.com/YourUsername/Student-Success-Prediction">Student-Success-Prediction</a><br><br>
+<a href="https://github.com/derravi/Student_Success_Prediction/tree/main">Student-Success-Prediction</a><br><br>
 
-<b>Developed By :- Der Ravi</b><br>
+<bDeveloped By :- Der Ravi</b><br>
 <b>Linkedin Profile</b>
 < a href="www.linkedin.com/in/ravi-der">Der Ravi</a><br><br>
+
+
+<b>Developed By :- Der Ravi</b><br>
+<a href="www.linkedin.com/in/ravi-der">Linkedin Profile Click Here.</a><br><br>
